@@ -12,3 +12,5 @@ While Developing this project below assumptions are made
 The directory to be added to the FileWatcher can be configured in the apsettings.json using the key '<b>WatcherDirectoryPath<b>'.
   
 *<b>Note<b>:If this key is left empty  or invalid path is given the application will create a directory and add it to the filewatcher.*
+
+  By Default the application will start with the url :http://0.0.0.0:7655/
